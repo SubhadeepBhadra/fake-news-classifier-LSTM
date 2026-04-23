@@ -9,7 +9,7 @@ Classification of news into categories like FAKE or REAL with the help of NLP an
 - NLP
 - LSTM (Long Short-Term Memory)
 
-## 📂 Data Set
+## 📂 Data Set - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 Taken data set from Kaggle Fake news data set.
 
 ## ⚙️ Model Structure
