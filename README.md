@@ -31,6 +31,7 @@ The model is built using binary cross entropy loss function.
 ## 📁 Project Structure
 - FakeNewsClassifierUsingLSTM.ipynb
 - README.md
+- requirements.txt
 
 ## 💡 Future Scope
 - Use Bidirectional LSTM
